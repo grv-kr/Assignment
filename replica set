@@ -1,0 +1,1 @@
+A DaemonSet ensures that all (or some) Nodes run a copy of a Pod.

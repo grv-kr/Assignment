@@ -1,0 +1,2 @@
+Result app Stopped working after db pod stopped , as it was connecting to db on a socket ( synchronous connection), and directly querying database and it failed as it was searching for old db container on that socket connection.  
+on deletion of db pod , data got lost without persistant volume

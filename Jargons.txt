@@ -1,0 +1,20 @@
+Container
+Deployment
+Manifest
+Cluster
+Pod
+Node
+Replica Set
+Taint
+Persistent Volume
+Stateful Set
+Service
+Kubelet
+Kube-proxy
+Namespace
+Etcd
+Kubernetes scheduler
+Nodeport
+RBAC
+Label
+service mesh 
